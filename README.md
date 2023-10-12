@@ -4,10 +4,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioVV&layout=donut&theme=synthwave)
 
 ##
-
 [![My Langs](https://skillicons.dev/icons?i=js,html,css,python,nextjs,react,django,flask,ruby)](https://skillicons.dev)
 
 
+##
 ```python
 class Fabio:
   def __init__(self):
