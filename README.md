@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioVV&layout=donut&theme=synthwave)
 
 ##
-[![My Langs](https://skillicons.dev/icons?i=js,html,css,python,nextjs,react,django,flask,ruby)](https://skillicons.dev)
+[![My Langs](https://skillicons.dev/icons?i=js,html,css,react,php,python,django,flask,mysql)](https://skillicons.dev)
 
 
 ##
@@ -14,10 +14,13 @@ class Fabio:
     self.name = "Fábio Varela"
     self.age = 20
     self.email = "fabio.varela@protonmail.com"
-    self.tools = ['Javascript', 'HTML', 'CSS', 'Ruby', 'Python', 'NextJS', 'ReactJS', 'Django', 'Flask']
+    self.tools = ['Javascript', 'HTML', 'CSS', 'Python', 'ReactJS', 'Django', 'Flask', 'MySQL', 'SQL Server']
 
   def me(self):
     print(f'{self.name} - {self.age} - {self.email}\n{" - ".join(self.tools)}')
     
-i_as_object = Fabio().me()
+me = Fabio().me()
 ```
+
+##
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hrrspw551x8ohhw9inis34lti&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hrrspw551x8ohhw9inis34lti&redirect=true)
