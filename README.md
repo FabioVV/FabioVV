@@ -1,4 +1,4 @@
-<div style='text-align:center;'>
+<div align="center">
   <h1>Hello, Friend! My name is Fábio. <br><br> Welcome to my profile!</h1>
 </div>
 
