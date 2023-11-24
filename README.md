@@ -14,7 +14,7 @@ class Fabio:
     self.name = "Fábio Varela"
     self.age = 20
     self.email = "fabio.varela@protonmail.com"
-    self.tools = ['Javascript', 'HTML', 'CSS', 'Python', 'ReactJS', 'Django', 'Flask', 'MySQL', 'SQL Server']
+    self.tools = ['Javascript', 'HTML', 'CSS', 'React', 'PHP', 'Python', 'Django', 'Flask', 'MySQL']
 
   def me(self):
     print(f'{self.name} - {self.age} - {self.email}\n{" - ".join(self.tools)}')
